@@ -1,0 +1,49 @@
+.enquiry:hover .enquiry-toggle{
+    display: block;
+}
+.mybackground{
+    background-color: rgb(250, 109, 57) !important;
+    height: 50px;
+    transition: all 10s linear;
+    border-radius: 5px;
+}
+.mybackground:hover{
+    background-color: rgb(250, 109, 57) !important;
+    width: 200px;
+}
+.mybackground:hover .enquiry-hide-show{
+    display: inline;
+}
+.enquiry-hide-show{
+    display: none;
+}
+.search-background{
+    background-color: darkblue !important;
+    color:white;
+}
+.search-background:hover{
+    color:rgb(236, 215, 215);
+}
+.pdf-background{
+    background-color: rgb(250, 109, 57) !important;
+    color: white;
+}
+.pdf-background:hover{
+    color: rgb(223, 215, 215) !important;
+}
+.liner-gradient-background{
+        background: linear-gradient(to bottom,white,rgb(243, 241, 241));
+        /* background-color: rgb(233, 231, 229); */
+}
+.my-breadcrum{
+    padding: 23px;
+}
+.my-footer{
+    padding-bottom: 75px;
+}
+.home-banner{
+    background-color: darkblue !important;
+}
+.my-menu-items:hover{
+    background-color: darkblue !important;
+}
